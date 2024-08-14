@@ -21,7 +21,7 @@ My passion lies in bridging the gap between technology and user experience, ensu
 - **Languages:** HTML, CSS, Python
 - **Frameworks/Libraries:** Bootstrap, Django
 - **Tools:** Git, Figma, Adobe Photoshop, ERPNext
-- **Platforms:** GitHub, WordPress, Shopify
+- **Platforms:** GitHub, WordPress
 
 ### 🌱 Currently Learning:
 - Advanced web design techniques and tools.
