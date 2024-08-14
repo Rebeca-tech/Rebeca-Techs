@@ -29,7 +29,7 @@ My passion lies in bridging the gap between technology and user experience, ensu
 
 ### 📫 Let's Connect:
 - **LinkedIn:** www.linkedin.com/in/rebeca-mwaipopo-a21284252
-- **Portfolio:** https://www.
+- **Portfolio:** https://github.com/Rebeca-tech/Rebeca-tech
 - **Email:** rebekamwaipopo01@gmail.com
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech, design, or customer care.
